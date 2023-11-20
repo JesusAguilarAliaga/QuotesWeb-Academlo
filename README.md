@@ -9,6 +9,8 @@ Implemented features:
 - Display an author
 - Create a button to change the quote and wallpaper (with a slight animation)
 
+![Screenshot](screenshot.png)
+
 ## Description
 
 This project showcases a web application that displays space-related quotes along with stunning wallpapers of galaxies. The aim is to provide an engaging experience for users while presenting inspiring space-related content.
